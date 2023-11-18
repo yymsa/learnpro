@@ -1,0 +1,767 @@
+@media screen and (min-width:1000px){
+    body{
+        font-family: 'lora','serief';
+    }
+    .father{
+        width: 100%;
+        height: 500px;
+        background-color: brown;
+        position: relative;
+    }
+    .father .im1{
+        width: 100%;
+        height: 100%;
+    }
+    .father .fh1{
+        position: absolute;
+        left: 2%;
+        top: 2%;
+        color: white;
+        font-weight: bold;
+    }
+    .father .navbar{
+        position: absolute;
+        top: 2%;
+        right: 2%;
+    }
+    #a1{
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .father2{
+        width: 100%;
+        height: 200px;
+        background-color: white;
+        position: relative;
+        border: 2px solid black;
+    }
+    .father2 .fh3{
+        position: absolute;
+        left: 2%;
+        top: 5%;
+        font-weight: bold;
+    }
+    .im2{
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        top: 38%;
+        left: 10%;
+    }
+    .father2 .son{
+        width: 35%;
+        background-color: white;
+        position: absolute;
+        right: 35%;
+        top: 25%;
+        border-left: 2px solid black;
+    }
+    .u1, .u2{
+        list-style: none;
+    }
+    .son .d1{
+        width: 80%;
+        background-color: blue;
+        border-radius: 50px;
+    }
+    .d1 .par{
+        text-align: center;
+        font-size: 18px;
+        color: white;
+    }
+    .father2 .son1{
+        width: 35%;
+        background-color: white;
+        position: absolute;
+        right: 0%;
+        top: 25%;
+        border-left: 2px solid black;
+    }
+    .son1 .d2{
+        width: 80%;
+        background-color: blue;
+        border-radius: 50px;
+    }
+    .d2 .parr{
+        text-align: center;
+        font-size: 18px;
+        color: white;
+    }
+    .father3, .father33, .father34{
+        width: 100%;
+        height: 50px;
+        background-color: #231C3C;
+        position: relative;
+    }
+    .father3 .pa1{
+        position: absolute;
+        left: 42%;
+        top: 25%;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+    }
+    .father33 .ppa1{
+        position: absolute;
+        left: 42%;
+        top: 25%;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+    }
+    .father34 .pa14{
+        position: absolute;
+        left: 42%;
+        top: 25%;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+    }
+    .vid{
+        height: 450px;
+        width: 100%;
+        background-color: white;
+        position: relative;
+        border: 2px solid black;
+    }
+    .vid1{
+        width: 69%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        left: 1%;
+    }
+    .parg{
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .vid2{
+        width: 30%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        right: 0%;
+        top: 0%;
+        border-left: 2px solid black;;
+    }
+    .a2aa1, .af1, .af2, .af3{
+        text-decoration: none;
+        color: white;
+    }
+    .vp1, .vp2, .vp1ne, .vp2ne{
+        font-size: 20px;
+        font-weight: bold;
+        position: absolute;
+        left: 5%;
+    }
+    .vp1, .vp1ne{
+        top: 5%;
+    }
+    .vp2, .vp2ne{
+        top: 52%;
+    }
+    .vu1, .vu2, .vu1ne, .vu2ne{
+        list-style: none;
+    }
+    .vu1, .vu1ne{
+        position: absolute;
+        left: 10%;
+        top: 17%;
+    }
+    .vu2, .vu2ne{
+        position: absolute;
+        left: 10%;
+        top: 65%;
+    }
+    .vd1, .vd2, .vd1ne, .vd2ne{
+        width: 200px;
+        background-color: blue;
+        border-radius: 50px;
+    }
+    .vvp1, .vvp2{
+        color: white;
+        font-size: 20px;
+        text-align: center;
+    }
+    .hr1{
+        position: relative;
+        top: 43%;
+        height: 15px;
+        background-color: black;
+        color: black;
+    }
+    .box1{
+        width: 100%;
+        height: 450px;
+        background-color: white;
+        position: relative;
+    }
+    .b1{
+        position: absolute;
+        left: 0%;
+        background-color: white;
+        height: 100%;
+        width: 33%;
+        border: 2px solid black;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    .b2{
+        position: absolute;
+        left: 33.5%;
+        background-color: white;
+        height: 100%;
+        width: 33%;
+        border: 2px solid black;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    .b3{
+        position: absolute;
+        right: 0%;
+        background-color: white;
+        height: 100%;
+        width: 33%;
+        border: 2px solid black;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    .bo1{
+        width: 100%;
+        height: 450px;
+        background-color: white;
+        position: relative;
+    }
+    .ba1{
+        position: absolute;
+        left: 0%;
+        background-color: white;
+        height: 100%;
+        width: 33%;
+        border: 2px solid black;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    .ba2{
+        position: absolute;
+        left: 33.5%;
+        background-color: white;
+        height: 100%;
+        width: 33%;
+        border: 2px solid black;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    .ba3{
+        position: absolute;
+        right: 0%;
+        background-color: white;
+        height: 100%;
+        width: 33%;
+        border: 2px solid black;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    .p1{
+        font-size: 20px;
+        font-weight: bold;
+        position: absolute;
+        bottom: -2%;
+        left: 38%;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    .box2{
+        width: 100%;
+        height: 450px;
+        position: relative;
+        background-color: white;
+        border: 2px solid black;
+    }
+    .bbox1{
+        width: 69%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        left: 1%;
+        overflow: auto;
+    }
+    .bbox2{
+        width: 30%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        top: 0%;
+        right: 0%;
+        border-left: 2px solid black;
+    }
+    .box22{
+        width: 100%;
+        height: 650px;
+        position: relative;
+        background-color: white;
+        border: 2px solid black;
+    }
+    .bbox11{
+        width: 69%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        left: 1%;
+    }
+    .bbox22{
+        width: 30%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        top: 0%;
+        right: 0%;
+        border-left: 2px solid black;
+    }
+    .vpa1, .vpa2, .vpa3, .vpa4{
+        font-size: 20px;
+        font-weight: bold;
+        position: absolute;
+        left: 5%;
+    }
+    .vpa1{
+        position: absolute;
+        top: 2%;
+    }
+    .vpa2{
+        position: absolute;
+        top: 34%;
+    }
+    .vpa3{
+        position: absolute;
+        top: 62%;
+    }
+    .vpa4{
+        position: absolute;
+        top: 80%;
+    }
+    .vau1, .vau2, .vau3, .vau4{
+        list-style: none;
+        position: absolute;
+        left: 20%;
+    }
+    .vau1{
+        position: absolute;
+        top: 10%;
+    }
+    .vau2{
+        position: absolute;
+        top: 42%;
+    }
+    .vau3{
+        position: absolute;
+        top: 70%;
+    }
+    .vau4{
+        position: absolute;
+        bottom: 2%;
+    }
+    .hra1, .hra2, .hra3{
+        height: 15px;
+        background-color: black;
+        color: black;
+    }
+    .hra1{
+        position: relative;
+        top: 28%;
+    }
+    .hra2{
+        position: relative;
+        top: 50%;
+    }
+    .hra3{
+        position: relative;
+        top: 65%;
+    }
+    .father3f{
+        width: 100%;
+        height: 38px;
+        background-color: #231C3C;
+        position: relative;
+    }
+    .father3f .pa1f{
+        position: absolute;
+        left: 45%;
+        top: 15%;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+    }
+    .fson{
+        width: 98%;
+        height: 80px;
+        background-color: white;
+        border: 2px solid black;
+        border-radius: 15px;
+        position: relative;
+        left: 1%;
+    }
+    .fpson{
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .fson .fim{
+        position: absolute;
+        left: 20%;
+        top: 15%;
+        width: 55px;
+        height: 55px;
+    }
+    .fson .fim1{
+        position: absolute;
+        right: 20%;
+        top: 15%;
+        width: 55px;
+        height: 55px;
+    }
+    .fa, .fa1, .fa2, .fa3{
+        display: none;
+    }
+    .fa4, .fa5, .fa6, .wl1{
+        display: none;
+    }
+}
+@media screen and (max-width:1000px){
+    .father{
+        width: 100%;
+        height: 500px;
+        background-color: brown;
+        position: relative;
+    }
+    .father .im1{
+        width: 100%;
+        height: 100%;
+    }
+    .father .fh1{
+        display: none;
+    }
+    .father .navbar{
+        position: absolute;
+        top: 5%;
+        left: 2%;
+    }
+    #a1{
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .father2{
+        width: 100%;
+        height: 650px;
+        background-color: white;
+        position: relative;
+        border: 2px solid black;
+    }
+    .father2 .fh3{
+        position: absolute;
+        left: 2%;
+        top: 5%;
+        font-weight: bold;
+        font-size: 42px;
+    }
+    .father2 .im2{
+        width: 30%;
+        height: 45%;
+        position: absolute;
+        top: 5%;
+        right: 0%;
+    }
+    .father2 .son{
+        width: 50%;
+        background-color: white;
+        position: absolute;
+        left: 5%;
+        top: 18%;
+    }
+    .father2 .son1{
+        width: 50%;
+        background-color: white;
+        position: absolute;
+        left: 5%;
+        bottom: 2%;
+    }
+    .l1, .l2{
+        list-style: none;
+    }
+    .wl1{
+        list-style-type: unset;
+    }
+    .son .d1{
+        width: 95%;
+        height: 60px;
+        background-color: blue;
+        border-radius: 50px;
+    }
+    .d1 .par{
+        text-align: center;
+    }
+    .son1 .d2{
+        width: 95%;
+        height: 60px;
+        background-color: blue;
+        border-radius: 50px;
+    }
+    .d2 .parr{
+        text-align: center;
+    }
+    .aa1{
+        text-decoration: none;
+        color: white;
+        font-size: 30px;
+    }
+    .father3{
+        width: 100%;
+        height: 120px;
+        background-color: #231C3C;
+        position: relative;
+    }
+    .father3 .pa1{
+        position: absolute;
+        left: 25%;
+        top: 20%;
+        font-size: 42px;
+        color: white;
+        font-weight: bold;
+    }
+    .vid{
+        height: 1600px;
+        width: 100%;
+        background-color: white;
+        position: relative;
+    }
+    .vid1{
+        width: 95%;
+        height: 1300px;
+        background-color: white;
+        position: absolute;
+        left: 5%;
+    }
+    .parg{
+        font-weight: bold;
+        font-size: 38px;
+    }
+    .btn{
+        width: 30%;
+        height: 90px;
+        font-size: 30px;
+    }
+    .vid2{
+        width: 100%;
+        height: 600px;
+        background-color: white;
+        position: absolute;
+        right: 0%;
+        top: 1300px;
+    }
+    .a2aa1{
+        text-decoration: none;
+        color: white;
+    }
+    .vd1, .vd2{
+        width: 200px;
+        background-color: blue;
+        border-top-right-radius: 50px;
+        border-bottom-right-radius: 50px;
+    }
+    .vd1ne, .vd2ne{
+        width: 400px;
+        background-color: blue;
+        border-top-right-radius: 50px;
+        border-bottom-right-radius: 50px;
+    }
+    .vp1, .vp2, .vp1ne, .vp2ne{
+        font-size: 35px;
+        font-weight: bold;
+        position: absolute;
+        left: 5%;
+        color: black;
+    }
+    .vp1, .vp1ne{
+        top: 5%;
+    }
+    .vp2{
+        top: 52%;
+    }
+    .vp2ne{
+        top: 42%;
+    }
+    .vu1, .vu2, .vu1ne, .vu2ne{
+        list-style: none;
+    }
+    .vu1, .vu1ne{
+        position: absolute;
+        left: 10%;
+        top: 17%;
+    }
+    .vu2{
+        position: absolute;
+        left: 10%;
+        top: 65%;
+    }
+    .vu2ne{
+        position: absolute;
+        left: 10%;
+        top: 55%;
+    }
+    .hr1, .hra1, .hra2, .hra3{
+        display: none;
+    }
+    .box1{
+        width: 100%;
+        height: 500px;
+        background-color: white;
+        position: relative;
+    }
+    .box1 .b1{
+        position: absolute;
+        left: 1%;
+        background-color: white;
+        height: 100%;
+        width: 48%;
+        border: 2px solid black;
+        border-radius: 15px;
+    }
+    .box1 .b2{
+        position: absolute;
+        right: 1%;
+        background-color: white;
+        height: 100%;
+        width: 48%;
+        border: 2px solid black;
+        border-radius: 15px;
+    }
+    .b3{
+        display: none;
+    }
+    .im3, .im4{
+        border-radius: 15px;
+    }
+    .p1{
+        font-size: 38px;
+        font-weight: bold;
+        position: absolute;
+        bottom: -2%;
+        left: 32%;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    .father34{
+        width: 100%;
+        height: 120px;
+        background-color: #231C3C;
+        position: relative;
+    }
+    .father34 .pa14{
+        position: absolute;
+        left: 25%;
+        top: 20%;
+        font-size: 42px;
+        color: white;
+        font-weight: bold;
+    }
+    .box2{
+        height: 1700px;
+        width: 100%;
+        background-color: white;
+        position: relative;
+    }
+    .bbox1{
+        width: 95%;
+        height: 1100px;
+        background-color: white;
+        position: absolute;
+        left: 5%;
+    }
+    .bbox2{
+        width: 100%;
+        height: 600px;
+        background-color: white;
+        position: absolute;
+        right: 0%;
+        top: 1100px;
+    }
+    .bo1{
+        width: 100%;
+        height: 500px;
+        background-color: white;
+        position: relative;
+    }
+    .bo1 .ba1{
+        position: absolute;
+        right: 1%;
+        background-color: white;
+        height: 100%;
+        width: 48%;
+        border: 2px solid black;
+        border-radius: 15px;
+    }
+    .bo1 .ba2{
+        position: absolute;
+        left: 1%;
+        background-color: white;
+        height: 100%;
+        width: 48%;
+        border: 2px solid black;
+        border-radius: 15px;
+    }
+    .ba3{
+        display: none;
+    }
+    .father33{
+        width: 100%;
+        height: 120px;
+        background-color: #231C3C;
+        position: relative;
+    }
+    .father33 .ppa1{
+        position: absolute;
+        left: 25%;
+        top: 20%;
+        font-size: 42px;
+        color: white;
+        font-weight: bold;
+    }
+    .box22{
+        height: 1800px;
+        width: 100%;
+        background-color: white;
+        position: relative;
+    }
+    .box22 .bbox11{
+        width: 95%;
+        height: 1100px;
+        background-color: white;
+        position: absolute;
+        left: 5%;
+    }
+    .box22 .bbox22{
+        width: 95%;
+        height: 700px;
+        background-color: white;
+        position: absolute;
+        right: 0%;
+        bottom: -820px;
+    }
+    .vpa1,.vpa2, .vpa3, .vpa4{
+        font-size: 35px;
+    }
+    .vau1, .vau2, .vau3, .vau4{
+        list-style: none;
+    }
+    .v1vd1, .v2vd1{
+        width: 40%;
+        background-color: blue;
+        border-top-right-radius: 50px;
+        border-bottom-right-radius: 50px;
+    }
+    .father3f, .fson{
+        display: none;
+    }
+}
